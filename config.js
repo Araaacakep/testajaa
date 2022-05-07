@@ -53,7 +53,10 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = 'wa.me/6285323176492'
-global.author = 'Bot sience-aa'
+global.author = 'Bot sience-aq'
+
+global.wait = '「 ⏱️ 」Harap tunggu...'
+global.eror = '「❗」Server ERROR!'
 
 global.multiplier = 39 // The higher, The harder levelup
 
